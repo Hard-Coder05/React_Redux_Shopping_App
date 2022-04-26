@@ -1,6 +1,6 @@
 {
   "name": "shopping_app",
-  "homepage": "https://Hard-Coder05.github.io/React_Redux_Shopping_App/",
+  "homepage": "https://react-redux-shopping-app.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
